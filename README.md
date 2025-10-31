@@ -10,16 +10,16 @@
 ##
 <div align="center">
 
-  <a href="https://github.com/swatchka">
-    <img src="https://github-readme-stats.vercel.app/api?username=swatchka&theme=dark" width="380">
+  <a href="https://solved.ac/profile/kingpin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
   </a>
 
   <a href="https://github.com/swatchka">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&layout=compact&theme=dark" width="310">
   </a>
 
-  <a href="https://solved.ac/profile/kingpin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
+  <a href="https://github.com/swatchka">
+    <img src="https://github-readme-stats.vercel.app/api?username=swatchka&theme=dark" width="380">
   </a>
 
 </div>
