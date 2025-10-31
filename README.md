@@ -1,6 +1,7 @@
 ## Hi i'm a boy who wants to become a good software engineer 👋
 ![header](https://capsule-render.vercel.app/api?type=waving)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
