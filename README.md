@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 ## Hi i'm a boy who wants to become a good software engineer 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka)
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
