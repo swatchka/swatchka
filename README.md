@@ -22,7 +22,7 @@
   </a>
 
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swatchka&theme=dracula)](https://github.com/swatchka/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swatchka&theme=dracula)](https://github.com/swatchka/github-readme-activity-graph)
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
