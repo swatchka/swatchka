@@ -8,8 +8,9 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&langs_count=10&layout=compact&theme=dark)](https://github.com/swatchka/swatchka)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka&langs_count=10&layout=compact&theme=dark)](https://github.com/swatchka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&langs_count=10&layout=compact&theme=dark)](https://github.com/swatchka/swatchka)
+
 
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
