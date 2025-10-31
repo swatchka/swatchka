@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Network%20Communication%20🌐&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SWATCHKA&fontSize=50&fontColor=ffffff)
 
 ## Hi i'm a boy who wants to become a good software engineer 👋
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
