@@ -1,8 +1,6 @@
 
-![header]
+![header](https://capsule-render.vercel.app/api?type=waving)
 ## Hi i'm a boy who wants to become a good software engineer 👋
-(https://capsule-render.vercel.app/api?type=waving)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka)
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
