@@ -1,5 +1,7 @@
+
+![header]
 ## Hi i'm a boy who wants to become a good software engineer 👋
-![header](https://capsule-render.vercel.app/api?type=waving)
+(https://capsule-render.vercel.app/api?type=waving)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka)
 <!--
