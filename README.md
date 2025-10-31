@@ -20,9 +20,9 @@
   <a href="https://solved.ac/profile/kingpin">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
   </a>
-
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--
+<!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
