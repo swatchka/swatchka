@@ -8,9 +8,21 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka&langs_count=10&layout=compact&theme=dark)](https://github.com/swatchka/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&langs_count=10&layout=compact&theme=dark)](https://github.com/swatchka/)
-[![kingpin](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin)](https://solved.ac/profile/kingpin)
+<div align="center">
+
+  <a href="https://github.com/swatchka">
+    <img src="https://github-readme-stats.vercel.app/api?username=swatchka&theme=dark" width="380">
+  </a>
+
+  <a href="https://github.com/swatchka">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&layout=compact&theme=dark" width="310">
+  </a>
+
+  <a href="https://solved.ac/profile/kingpin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
+  </a>
+
+</div>
 
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
