@@ -12,6 +12,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
 </a>
 ![swatchka's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=swatchka)
 
 
 <!--
