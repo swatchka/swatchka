@@ -8,11 +8,10 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ##
-<div align="center">
-  <a href="https://solved.ac/profile/kingpin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
-  </a>
-</div>
+<a href="https://solved.ac/profile/kingpin">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
+</a>
+
 
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
