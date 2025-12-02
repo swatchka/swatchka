@@ -8,9 +8,9 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ##
-<!-- <a href="https://solved.ac/profile/kingpin">
+<a href="https://solved.ac/profile/kingpin">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
-</a> -->
+</a>
 ![swatchka's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka&show_icons=true&theme=radical)
 
 
