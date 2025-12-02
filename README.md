@@ -12,15 +12,14 @@
   <a href="https://github.com/swatchka">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&layout=compact&theme=dark" width="310">
   </a>
-  <a href="https://github.com/swatchka">
+  <!-- <a href="https://github.com/swatchka">
     <img src="https://github-readme-stats.vercel.app/api?username=swatchka&theme=dark" width="380">
-  </a>
+  </a> -->
   <a href="https://solved.ac/profile/kingpin">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
   </a>
 </div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=swatchka&theme=dracula)
 <!--
 **swatchka/swatchka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
