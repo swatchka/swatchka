@@ -11,7 +11,7 @@
 <a href="https://solved.ac/profile/kingpin">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
 </a>
-![Yang yoonsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=swatchka&show_icons=true&theme=radical)
 
 
 <!--
