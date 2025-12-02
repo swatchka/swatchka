@@ -9,9 +9,9 @@
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ##
 <div align="center">
-  <!-- <a href="https://github.com/swatchka">
+  <a href="https://github.com/swatchka">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatchka&layout=compact&theme=dark" width="310">
-  </a> -->
+  </a>
   <a href="https://github.com/swatchka">
     <img src="https://github-readme-stats.vercel.app/api?username=swatchka&theme=dark" width="380">
   </a>
