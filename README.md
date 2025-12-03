@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ##
 <a href="https://solved.ac/profile/kingpin">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">  
 </a>
 <!-- ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatchka&theme=radical) -->
 
