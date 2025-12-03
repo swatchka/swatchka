@@ -11,8 +11,12 @@
 <a href="https://solved.ac/profile/kingpin">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingpin" width="250">
 </a>
-![swatchka's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka&show_icons=true&theme=radical&cache_seconds=0)
-![trophy](https://github-profile-trophy.vercel.app/?username=swatchka)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatchka&theme=radical)
+
+![streak](https://streak-stats.demolab.com/?user=swatchka&theme=radical)
+
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swatchka&theme=radical)
+
 
 
 <!--
