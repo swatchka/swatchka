@@ -18,7 +18,7 @@
 
 
  
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swatchka&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatchka)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
